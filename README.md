@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poorvi Parashar</h1>
 <h3 align="center">Aspiring Full Stack Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poorviparashar122&label=Profile%20views&color=0e75b6&style=flat" alt="poorviparashar122" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poorviparashar122" alt="poorviparashar122" /></a> </p>
 
 - 🔭 I’m currently **learning MERN STACK**
 
