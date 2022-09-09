@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poorvi Parashar</h1>
 <h3 align="center">Aspiring Full Stack Web Developer from India</h3>
 
-[![MasterHead](https://user-images.githubusercontent.com/99549985/168443822-51841acd-0bff-4920-b51f-0338080eec7f.gif)](https://github.com/suranaarpit)
+[![MasterHead](https://user-images.githubusercontent.com/99549985/168443822-51841acd-0bff-4920-b51f-0338080eec7f.gif)](https://github.com/poorviparashar122)
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"  align="right"  width="400"/>
 
